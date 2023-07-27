@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, Python, React Native, AI**
 
-- 💬 Ask me about **React Native, Python, Java, C#, PHP**
+- 💬 Ask me about **React Native, Python, Java, C#**
 
 - 📫 How to reach me **mandiracieyuphan@gmail.com**
 
