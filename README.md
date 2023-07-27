@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/eyuphanmand" target="blank"><img src="https://img.shields.io/twitter/follow/eyuphanmand?logo=twitter&style=for-the-badge" alt="eyuphanmand" /></a> </p>
 
-- 🔭 I’m currently working on [TheMPDB](https://github.com/EyuphanMandiraci/TheModpackDatabase)
+- 🔭 I’m currently working on [DigitalArtDepot](https://github.com/EyuphanMandiraci/DigitalArtDepot)
 
 - 🌱 I’m currently learning **Java, Python, React Native, AI**
 
