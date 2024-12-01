@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eyuphanmandiraci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eyuphanmandiraci" height="30" width="40" /></a>
-<a href="https://twitter.com/eyuphanmand" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuphanmand" height="30" width="40" /></a>
+<a href="https://twitter.com/eyphanmandiraci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuphanmand" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eyüphan-mandıracı-6a6407213" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyüphan-mandiraci" height="30" width="40" /></a>
 <a href="https://instagram.com/eyuphanmandiraci_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyuphanmandiraci_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eyuphanmandiraci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyuphanmandiraci" height="30" width="40" /></a>
