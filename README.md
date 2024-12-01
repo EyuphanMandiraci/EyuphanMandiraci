@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/eyuphanmand" target="_blank"><img src="https://img.shields.io/twitter/follow/eyuphanmand?logo=twitter&style=for-the-badge" alt="eyuphanmand" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Art Depot](https://github.com/EyuphanMandiraci/DigitalArtDepot)
+<!--- 🔭 I’m currently working on [Digital Art Depot](https://github.com/EyuphanMandiraci/DigitalArtDepot)-->
 
 - 🌱 I’m currently learning **Java, React Native**
 
-- 👨‍💻 All of my projects are available at [https://eyuphanmandiraci.com](https://eyuphanmandiraci.com)
+<!--- 👨‍💻 All of my projects are available at [https://eyuphanmandiraci.com](https://eyuphanmandiraci.com)-->
 
 - 💬 Ask me about **React Native, Python, ASP.NET Core, Javascript**
 
